@@ -231,7 +231,7 @@ void PrintBanner(void)
 {
     ClearScreen();
     printf("===========================================================\n");
-    printf("                  EDR Network Silencer v1.0                \n");
+    printf("                  SilentButDeadly (v1.0)                   \n");
     printf("            Network Isolation for Security Testing         \n");
     printf("===========================================================\n");
     printf("[!] This tool blocks EDR network communications only\n");
