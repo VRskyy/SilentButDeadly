@@ -3,6 +3,8 @@
 ## Overview
 SilentButDeadly is a network communication blocker specifically designed to neutralize EDR/AV software by preventing their cloud connectivity using Windows Filtering Platform (WFP). This version focuses solely on network isolation without process termination.
 
+Blog: https://ryan.framinan.net/blog/silentbutdeadly
+
 ## Program Flow
 
 ### 1. **Initialization Phase**
